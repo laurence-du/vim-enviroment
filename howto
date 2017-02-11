@@ -1,0 +1,7 @@
+1. replace /etc/vim/vimrc with vimrc
+2. cp vimrc.local to /etc/vim/
+3. mkdir bundle  in /etc/vim
+4. cp vundle to /etc/vim/bundle/
+5. run vim.sh in /etc/vim/bundle/
+6. in vim run BundleInstall or PluginInstall
+7. vim enviroment is setting ok
